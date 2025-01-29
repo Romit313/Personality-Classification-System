@@ -29,9 +29,9 @@ The system uses machine learning algorithms to classify and predict a user's per
 
 ## Future Work
 
-- Integration with Recruitment Systems: We aim to integrate this system into recruitment tools to streamline the hiring process.
-- Real-time Personality Prediction: Future versions could provide real-time personality prediction in response to dynamic user inputs.
-- Improved Models: We plan to explore more advanced machine learning models to improve prediction accuracy.
+- **Integration with Recruitment Systems**: We aim to integrate this system into recruitment tools to streamline the hiring process.
+- **Real-time Personality Prediction**: Future versions could provide real-time personality prediction in response to dynamic user inputs.
+- **Improved Models**: We plan to explore more advanced machine learning models to improve prediction accuracy.
 
 ## Acknowledgments
 
