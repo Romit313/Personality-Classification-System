@@ -1,4 +1,4 @@
-# Personality-Classification-System
+# Personality Classification System
 
 ## Project Overview
 
